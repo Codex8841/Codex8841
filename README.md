@@ -1,7 +1,10 @@
-## Hi there 👋
+zt## Hi there 👋
 ![Meine Sttistik]
-Here are some ideas to get you started:
+
+Hier sind einige Information über mich:
+
 ![Werner](https://github-readme-stats.vercel.app/api?username=Codex8841&show_icons=true&theme=tokyonight)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
