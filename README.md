@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+![Meine Sttistik]
 Here are some ideas to get you started:
-
+![Werners GitHub States](https://Githu-readme-states.vercel.app/appi?username=codex8841&schow icons=true&theme=tokyonight)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
