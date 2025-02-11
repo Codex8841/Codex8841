@@ -3,7 +3,7 @@
 
 ## Hier sind einige Information über mich:
 
-![Werner](https://github-readme-stats.vercel.app/api?username=Codex8841&show_icons=true&theme=tokyonight)
+![Werner sein Kommentar](https://github-readme-stats.vercel.app/api?username=Codex8841&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
